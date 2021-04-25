@@ -6,6 +6,10 @@
 
 ![image](image/COSMAC-IO.jpg)
 
+## 回路図
+
+![image](image/CASMAC-IO-Schematic.jpg)
+
 ## 参考
 
 * SBC1802技術資料
